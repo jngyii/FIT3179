@@ -1,0 +1,36 @@
+﻿Type,State,Enrollment
+Primary,NSW,2089
+Primary,VIC,1571
+Primary,QLD,1145
+Primary,SA,434
+Primary,WA,686
+Primary,TAS,153
+Primary,AUSTRALIA,6237
+Secondary,NSW,511
+Secondary,VIC,345
+Secondary,QLD,279
+Secondary,SA,85
+Secondary,WA,143
+Secondary,TAS,41
+Secondary,AUSTRALIA,1453
+Combined,NSW,343
+Combined,VIC,251
+Combined,QLD,283
+Combined,SA,165
+Combined,WA,209
+Combined,TAS,59
+Combined,AUSTRALIA,1422
+Special Schools,NSW,182
+Special Schools,VIC,116
+Special Schools,QLD,90
+Special Schools,SA,28
+Special Schools,WA,82
+Special Schools,TAS,8
+Special Schools,AUSTRALIA,517
+Total,NSW,3125
+Total,VIC,2283
+Total,QLD,1797
+Total,SA,712
+Total,WA,1120
+Total,TAS,261
+Total,AUSTRALIA,9629
