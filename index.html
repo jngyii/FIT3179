@@ -1,77 +1,190 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Combined Visualizations</title>
   <script src="https://cdn.jsdelivr.net/npm/vega@5.22.1"></script>
   <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.2.0"></script>
   <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.20.8"></script>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 20px; }
+    #vis { width: 100%; max-width: 800px; margin: 0 auto; }
+  </style>
 </head>
 <body>
   <div id="vis"></div>
   <script>
     const spec = {
       "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-      "title": "CRIME INDEX OF THE WORLD",
-      "width": 800,
-      "height": 500,
-      "data": {
-        "url": "https://raw.githubusercontent.com/FIT3179/Vega-Lite/main/3_choropleth_map/js/ne_110m_admin_0_countries.topojson",
-        "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
-      },
-      "projection": {"type": "equalEarth"},
-      "layer": [
+      "params": [
         {
-          "transform": [
-            {
-              "calculate": "'Data is not available in ' + datum.properties.NAME",
-              "as": "note"
-            }
-          ],
-          "mark": {"type": "geoshape", "fill": "lightgray", "stroke": "white"},
-          "encoding": {
-            "tooltip": {"field": "note"}
-          }
-        },
-        {
-          "transform": [
-            {
-              "lookup": "properties.NAME",
-              "from": {
-                "data": {
-                  "url": "https://raw.githubusercontent.com/jngyii/FIT3179/main/World%20Crime%20Index%20cleaned%20New.csv"
-                },
-                "key": "Country",
-                "fields": ["Crime Index"]
-              }
-            }
-          ],
-          "mark": {"type": "geoshape", "stroke": "white"},
-          "encoding": {
-            "color": {
-              "field": "Crime Index",
-              "type": "quantitative",
-              "scale": {
-                "type": "linear",
-                "domain": [0, 100],
-                "range": ["#f2e5ff", "#ba55d3", "#4b0082"]
-              },
-              "legend": {
-                "title": "Crime Index",
-                "orient": "right",
-                "labelFontSize": 12,
-                "titleFontSize": 14
-              }
-            },
-            "tooltip": [
-              {"field": "properties.NAME", "type": "nominal", "title": "Country"},
-              {"field": "Crime Index", "type": "quantitative", "format": ".2f", "title": "Crime Index"}
-            ]
-          }
+          "name": "IndexSelection",
+          "bind": {
+            "input": "select",
+            "options": ["Crime Index", "Safety Index"],
+            "labels": ["Crime Index", "Safety Index"],
+            "name": "Select Index: "
+          },
+          "value": "Crime Index"
         }
       ],
-      "config": {}
+      "vconcat": [
+        {
+          "title": "School Enrollment by State and Type in Australia",
+          "width": 800,
+          "height": 600,
+          "data": {
+            "url": "https://raw.githubusercontent.com/jngyii/FIT3179/refs/heads/main/data%20for%20week%2010%20homework/Counts%20of%20all%20Schools%20cleaned",
+            "format": {"type": "csv"}
+          },
+          "transform": [
+            {
+              "filter": "datum.State !== 'AUSTRALIA' && datum.Type !== 'Total'"
+            }
+          ],
+          "encoding": {
+            "x": {
+              "field": "State",
+              "type": "ordinal",
+              "title": "State",
+              "axis": {
+                "tickCount": 7
+              }
+            },
+            "y": {
+              "aggregate": "sum",
+              "field": "Enrollment",
+              "type": "quantitative",
+              "title": "Total Enrollment",
+              "axis": {
+                "tickCount": 5
+              }
+            }
+          },
+          "layer": [
+            {
+              "mark": "bar",
+              "selection": {
+                "type_highlight": {
+                  "type": "multi",
+                  "fields": ["Type"],
+                  "bind": "legend"
+                }
+              },
+              "encoding": {
+                "color": {
+                  "field": "Type",
+                  "type": "nominal",
+                  "title": "School Type"
+                },
+                "opacity": {
+                  "condition": {
+                    "selection": "type_highlight",
+                    "value": 0.9
+                  },
+                  "value": 0.3
+                },
+                "tooltip": [
+                  { "field": "State", "type": "ordinal", "title": "State" },
+                  { "field": "Type", "type": "nominal", "title": "School Type" },
+                  { "field": "Enrollment", "type": "quantitative", "title": "Enrollment" }
+                ]
+              }
+            },
+            {
+              "mark": {
+                "type": "text",
+                "dy": -10,
+                "align": "center",
+                "fontSize": 12
+              },
+              "encoding": {
+                "text": {
+                  "aggregate": "sum",
+                  "field": "Enrollment",
+                  "type": "quantitative"
+                },
+                "x": {
+                  "field": "State",
+                  "type": "ordinal"
+                },
+                "y": {
+                  "aggregate": "sum",
+                  "field": "Enrollment",
+                  "type": "quantitative"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "title": "Crime and Safety Index of the World",
+          "width": 800,
+          "height": 500,
+          "data": {
+            "url": "https://raw.githubusercontent.com/FIT3179/Vega-Lite/main/3_choropleth_map/js/ne_110m_admin_0_countries.topojson",
+            "format": { "type": "topojson", "feature": "ne_110m_admin_0_countries" }
+          },
+          "projection": { "type": "equalEarth" },
+          "layer": [
+            {
+              "transform": [
+                {
+                  "calculate": "'Data is not available in ' + datum.properties.NAME",
+                  "as": "note"
+                }
+              ],
+              "mark": { "type": "geoshape", "fill": "lightgray", "stroke": "white" },
+              "encoding": {
+                "tooltip": { "field": "note" }
+              }
+            },
+            {
+              "transform": [
+                {
+                  "lookup": "properties.NAME",
+                  "from": {
+                    "data": {
+                      "url": "https://raw.githubusercontent.com/jngyii/FIT3179/refs/heads/main/data%20for%20week%2010%20homework/World%20Crime%20and%20Safety%20Index.csv"
+                    },
+                    "key": "Country",
+                    "fields": ["Crime Index", "Safety Index"]
+                  }
+                },
+                {
+                  "calculate": "datum[IndexSelection]",
+                  "as": "SelectedIndex"
+                }
+              ],
+              "mark": { "type": "geoshape", "stroke": "white" },
+              "encoding": {
+                "color": {
+                  "field": "SelectedIndex",
+                  "type": "quantitative",
+                  "scale": {
+                    "domain": [0, 100],
+                    "range": ["#f2e5ff", "#ba55d3", "#4b0082"]
+                  },
+                  "legend": {
+                    "title": "Index Value",
+                    "orient": "right",
+                    "labelFontSize": 12,
+                    "titleFontSize": 14
+                  }
+                },
+                "tooltip": [
+                  { "field": "properties.NAME", "type": "nominal", "title": "Country" },
+                  { "field": "SelectedIndex", "type": "quantitative", "format": ".2f", "title": "Index Value" }
+                ]
+              }
+            }
+          ]
+        }
+      ]
     };
 
-    vegaEmbed("#vis", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis", spec).then(console.log).catch(console.warn);
   </script>
 </body>
 </html>
