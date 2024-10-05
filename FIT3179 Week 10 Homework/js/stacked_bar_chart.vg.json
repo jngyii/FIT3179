@@ -1,0 +1,88 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 800,
+    "height": 600,
+    "data": {
+      "url": "https://raw.githubusercontent.com/jngyii/FIT3179/refs/heads/main/data%20for%20week%2010%20homework/Counts%20of%20all%20Schools%20cleaned",
+      "format": {"type": "csv"}
+    },
+    "transform": [
+      {
+        "filter": "datum.State !== 'AUSTRALIA' && datum.Type !== 'Total'"
+      }
+    ],
+    "encoding": {
+      "x": {
+        "field": "State",
+        "type": "ordinal",
+        "title": "State",
+        "axis": {
+          "tickCount": 7
+        }
+      },
+      "y": {
+        "aggregate": "sum",
+        "field": "Enrollment",
+        "type": "quantitative",
+        "title": "Total Enrollment",
+        "axis": {
+          "tickCount": 5
+        }
+      }
+    },
+    "layer": [
+      {
+        "mark": "bar",
+        "selection": {
+          "type_highlight": {
+            "type": "multi",
+            "fields": ["Type"],
+            "bind": "legend"
+          }
+        },
+        "encoding": {
+          "color": {
+            "field": "Type",
+            "type": "nominal",
+            "title": "School Type"
+          },
+          "opacity": {
+            "condition": {
+              "selection": "type_highlight",
+              "value": 0.9
+            },
+            "value": 0.3
+          },
+          "tooltip": [
+            { "field": "State", "type": "ordinal", "title": "State" },
+            { "field": "Type", "type": "nominal", "title": "School Type" },
+            { "field": "Enrollment", "type": "quantitative", "title": "Enrollment" }
+          ]
+        }
+      },
+      {
+        "mark": {
+          "type": "text",
+          "dy": -10,
+          "align": "center",
+          "fontSize": 12
+        },
+        "encoding": {
+          "text": {
+            "aggregate": "sum",
+            "field": "Enrollment",
+            "type": "quantitative"
+          },
+          "x": {
+            "field": "State",
+            "type": "ordinal"
+          },
+          "y": {
+            "aggregate": "sum",
+            "field": "Enrollment",
+            "type": "quantitative"
+          }
+        }
+      }
+    ]
+  }
