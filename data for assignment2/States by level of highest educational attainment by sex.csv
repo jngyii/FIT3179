@@ -1,0 +1,169 @@
+﻿Type,Gender,State,Enrollment
+Postgraduate Degree,Males,NSW,238825
+Postgraduate Degree,Males,VIC,193097
+Postgraduate Degree,Males,QLD,94693
+Postgraduate Degree,Males,SA,36836
+Postgraduate Degree,Males,WA,54953
+Postgraduate Degree,Males,TAS,12820
+Postgraduate Degree,Males,AUSTRALIA,663315
+Graduate Diploma and Graduate Certificate,Males,NSW,47597
+Graduate Diploma and Graduate Certificate,Males,VIC,50861
+Graduate Diploma and Graduate Certificate,Males,QLD,30496
+Graduate Diploma and Graduate Certificate,Males,SA,11325
+Graduate Diploma and Graduate Certificate,Males,WA,16672
+Graduate Diploma and Graduate Certificate,Males,TAS,3503
+Graduate Diploma and Graduate Certificate,Males,AUSTRALIA,168202
+Bachelor Degree,Males,NSW,539015
+Bachelor Degree,Males,VIC,445739
+Bachelor Degree,Males,QLD,257621
+Bachelor Degree,Males,SA,95588
+Bachelor Degree,Males,WA,150169
+Bachelor Degree,Males,TAS,26896
+Bachelor Degree,Males,AUSTRALIA,1565442
+Advanced Diploma and Diploma,Males,NSW,257635
+Advanced Diploma and Diploma,Males,VIC,226023
+Advanced Diploma and Diploma,Males,QLD,161958
+Advanced Diploma and Diploma,Males,SA,54682
+Advanced Diploma and Diploma,Males,WA,87305
+Advanced Diploma and Diploma,Males,TAS,15334
+Advanced Diploma and Diploma,Males,AUSTRALIA,824637
+"Certificate (I,II,III,IV)",Males,NSW,648919
+"Certificate (I,II,III,IV)",Males,VIC,500481
+"Certificate (I,II,III,IV)",Males,QLD,510243
+"Certificate (I,II,III,IV)",Males,SA,164874
+"Certificate (I,II,III,IV)",Males,WA,251076
+"Certificate (I,II,III,IV)",Males,TAS,54904
+"Certificate (I,II,III,IV)",Males,AUSTRALIA,2176124
+Secondary Education,Males,NSW,1128048
+Secondary Education,Males,VIC,917222
+Secondary Education,Males,QLD,755958
+Secondary Education,Males,SA,288816
+Secondary Education,Males,WA,378562
+Secondary Education,Males,TAS,89729
+Secondary Education,Males,AUSTRALIA,3646832
+No educational attainment,Males,NSW,27888
+No educational attainment,Males,VIC,25817
+No educational attainment,Males,QLD,9375
+No educational attainment,Males,SA,5676
+No educational attainment,Males,WA,5797
+No educational attainment,Males,TAS,934
+No educational attainment,Males,AUSTRALIA,77169
+Total,Males,NSW,3228581
+Total,Males,VIC,2600300
+Total,Males,QLD,2044361
+Total,Males,SA,723017
+Total,Males,WA,1062852
+Total,Males,TAS,226250
+Total,Males,AUSTRALIA,10161299
+Postgraduate Degree,Females,NSW,247016
+Postgraduate Degree,Females,VIC,206528
+Postgraduate Degree,Females,QLD,102237
+Postgraduate Degree,Females,SA,39944
+Postgraduate Degree,Females,WA,54961
+Postgraduate Degree,Females,TAS,14388
+Postgraduate Degree,Females,AUSTRALIA,696118
+Graduate Diploma and Graduate Certificate,Females,NSW,88018
+Graduate Diploma and Graduate Certificate,Females,VIC,102586
+Graduate Diploma and Graduate Certificate,Females,QLD,61737
+Graduate Diploma and Graduate Certificate,Females,SA,21701
+Graduate Diploma and Graduate Certificate,Females,WA,33473
+Graduate Diploma and Graduate Certificate,Females,TAS,6792
+Graduate Diploma and Graduate Certificate,Females,AUSTRALIA,327742
+Bachelor Degree,Females,NSW,678031
+Bachelor Degree,Females,VIC,558652
+Bachelor Degree,Females,QLD,371682
+Bachelor Degree,Females,SA,129817
+Bachelor Degree,Females,WA,203443
+Bachelor Degree,Females,TAS,37434
+Bachelor Degree,Females,AUSTRALIA,2043812
+Advanced Diploma and Diploma,Females,NSW,358683
+Advanced Diploma and Diploma,Females,VIC,295268
+Advanced Diploma and Diploma,Females,QLD,233653
+Advanced Diploma and Diploma,Females,SA,73015
+Advanced Diploma and Diploma,Females,WA,113348
+Advanced Diploma and Diploma,Females,TAS,21358
+Advanced Diploma and Diploma,Females,AUSTRALIA,1122105
+"Certificate (I,II,III,IV)",Females,NSW,345597
+"Certificate (I,II,III,IV)",Females,VIC,263345
+"Certificate (I,II,III,IV)",Females,QLD,286312
+"Certificate (I,II,III,IV)",Females,SA,95967
+"Certificate (I,II,III,IV)",Females,WA,132805
+"Certificate (I,II,III,IV)",Females,TAS,31726
+"Certificate (I,II,III,IV)",Females,AUSTRALIA,1180745
+Secondary Education,Females,NSW,1225723
+Secondary Education,Females,VIC,996797
+Secondary Education,Females,QLD,841129
+Secondary Education,Females,SA,315108
+Secondary Education,Females,WA,422896
+Secondary Education,Females,TAS,99780
+Secondary Education,Females,AUSTRALIA,3992836
+No educational attainment,Females,NSW,36936
+No educational attainment,Females,VIC,33905
+No educational attainment,Females,QLD,10658
+No educational attainment,Females,SA,7266
+No educational attainment,Females,WA,6934
+No educational attainment,Females,TAS,930
+No educational attainment,Females,AUSTRALIA,98671
+Total,Females,NSW,3373575
+Total,Females,VIC,2733735
+Total,Females,QLD,2147455
+Total,Females,SA,755362
+Total,Females,WA,1091391
+Total,Females,TAS,238684
+Total,Females,AUSTRALIA,10623484
+Postgraduate Degree,Persons,NSW,485845
+Postgraduate Degree,Persons,VIC,399612
+Postgraduate Degree,Persons,QLD,196928
+Postgraduate Degree,Persons,SA,76780
+Postgraduate Degree,Persons,WA,109913
+Postgraduate Degree,Persons,TAS,27212
+Postgraduate Degree,Persons,AUSTRALIA,1359428
+Graduate Diploma and Graduate Certificate,Persons,NSW,135609
+Graduate Diploma and Graduate Certificate,Persons,VIC,153446
+Graduate Diploma and Graduate Certificate,Persons,QLD,92233
+Graduate Diploma and Graduate Certificate,Persons,SA,33029
+Graduate Diploma and Graduate Certificate,Persons,WA,50138
+Graduate Diploma and Graduate Certificate,Persons,TAS,10301
+Graduate Diploma and Graduate Certificate,Persons,AUSTRALIA,495942
+Bachelor Degree,Persons,NSW,1217048
+Bachelor Degree,Persons,VIC,1004394
+Bachelor Degree,Persons,QLD,629307
+Bachelor Degree,Persons,SA,225405
+Bachelor Degree,Persons,WA,353606
+Bachelor Degree,Persons,TAS,64334
+Bachelor Degree,Persons,AUSTRALIA,3609256
+Advanced Diploma and Diploma,Persons,NSW,616322
+Advanced Diploma and Diploma,Persons,VIC,521291
+Advanced Diploma and Diploma,Persons,QLD,395615
+Advanced Diploma and Diploma,Persons,SA,127698
+Advanced Diploma and Diploma,Persons,WA,200659
+Advanced Diploma and Diploma,Persons,TAS,36691
+Advanced Diploma and Diploma,Persons,AUSTRALIA,13766
+"Certificate (I,II,III,IV)",Persons,NSW,994520
+"Certificate (I,II,III,IV)",Persons,VIC,763831
+"Certificate (I,II,III,IV)",Persons,QLD,796554
+"Certificate (I,II,III,IV)",Persons,SA,260843
+"Certificate (I,II,III,IV)",Persons,WA,383888
+"Certificate (I,II,III,IV)",Persons,TAS,86630
+"Certificate (I,II,III,IV)",Persons,AUSTRALIA,29930
+Secondary Education,Persons,NSW,2353776
+Secondary Education,Persons,VIC,1914018
+Secondary Education,Persons,QLD,1597089
+Secondary Education,Persons,SA,603922
+Secondary Education,Persons,WA,801456
+Secondary Education,Persons,TAS,189509
+Secondary Education,Persons,AUSTRALIA,70831
+No educational attainment,Persons,NSW,64827
+No educational attainment,Persons,VIC,59722
+No educational attainment,Persons,QLD,20032
+No educational attainment,Persons,SA,12943
+No educational attainment,Persons,WA,12723
+No educational attainment,Persons,TAS,1864
+No educational attainment,Persons,AUSTRALIA,175844
+Total,Persons,NSW,6602157
+Total,Persons,VIC,5334032
+Total,Persons,QLD,4191812
+Total,Persons,SA,1478375
+Total,Persons,WA,2154244
+Total,Persons,TAS,464930
+Total,Persons,AUSTRALIA,20784787

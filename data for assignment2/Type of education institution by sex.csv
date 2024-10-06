@@ -1,0 +1,19 @@
+﻿Type,Gender,Enrollment
+Preschool,Males,252530
+Preschool,Females,231654
+Preschool,Persons,484185
+Primary,Males,1064524
+Primary,Females,1010697
+Primary,Persons,2075224
+Secondary,Males,827178
+Secondary,Females,802444
+Secondary,Persons,1629624
+Tertiary,Males,275110
+Tertiary,Females,326781
+Tertiary,Persons,601901
+University or other higher education,Males,495019
+University or other higher education,Females,690438
+University or other higher education,Persons,1185450
+Other type of education institution ,Males,106207
+Other type of education institution ,Females,136615
+Other type of education institution ,Persons,242821
