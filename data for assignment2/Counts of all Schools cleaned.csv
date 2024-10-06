@@ -1,176 +1,176 @@
-﻿Type,Affiliaion,State,Enrollment,,,,,
-Primary,Total Schools,NSW,2089,,,,,
-Primary,Total Schools,VIC,1571,,,,,
-Primary,Total Schools,QLD,1145,,,,,
-Primary,Total Schools,SA,434,,,,,
-Primary,Total Schools,WA,686,,,,,
-Primary,Total Schools,TAS,153,,,,,
-Primary,Total Schools,AUSTRALIA,6237,,,,,
-Secondary,Total Schools,NSW,511,,,,,
-Secondary,Total Schools,VIC,345,,,,,
-Secondary,Total Schools,QLD,279,,,,,
-Secondary,Total Schools,SA,85,,,,,
-Secondary,Total Schools,WA,143,,,,,
-Secondary,Total Schools,TAS,41,,,,,
-Secondary,Total Schools,AUSTRALIA,1453,,,,,
-Combined,Total Schools,NSW,343,,,,,
-Combined,Total Schools,VIC,251,,,,,
-Combined,Total Schools,QLD,283,,,,,
-Combined,Total Schools,SA,165,,,,,
-Combined,Total Schools,WA,209,,,,,
-Combined,Total Schools,TAS,59,,,,,
-Combined,Total Schools,AUSTRALIA,1422,,,,,
-Special Schools,Total Schools,NSW,182,,,,,
-Special Schools,Total Schools,VIC,116,,,,,
-Special Schools,Total Schools,QLD,90,,,,,
-Special Schools,Total Schools,SA,28,,,,,
-Special Schools,Total Schools,WA,82,,,,,
-Special Schools,Total Schools,TAS,8,,,,,
-Special Schools,Total Schools,AUSTRALIA,517,,,,,
-Total,Total Schools,NSW,3125,,,,,
-Total,Total Schools,VIC,2283,,,,,
-Total,Total Schools,QLD,1797,,,,,
-Total,Total Schools,SA,712,,,,,
-Total,Total Schools,WA,1120,,,,,
-Total,Total Schools,TAS,261,,,,,
-Total,Total Schools,AUSTRALIA,9629,,,,,
-Primary,Government Schools,NSW,1604,,,,,
-Primary,Government Schools,VIC,1140,,,,,
-Primary,Government Schools,QLD,916,,,,,
-Primary,Government Schools,SA,348,,,,,
-Primary,Government Schools,WA,548,,,,,
-Primary,Government Schools,TAS,124,,,,,
-Primary,Government Schools,AUSTRALIA,58,,,,,
-Secondary,Government Schools,NSW,371,,,,,
-Secondary,Government Schools,VIC,252,,,,,
-Secondary,Government Schools,QLD,194,,,,,
-Secondary,Government Schools,SA,68,,,,,
-Secondary,Government Schools,WA,113,,,,,
-Secondary,Government Schools,TAS,36,,,,,
-Secondary,Government Schools,AUSTRALIA,19,,,,,
-Combined,Government Schools,NSW,65,,,,,
-Combined,Government Schools,VIC,86,,,,,
-Combined,Government Schools,QLD,94,,,,,
-Combined,Government Schools,SA,74,,,,,
-Combined,Government Schools,WA,84,,,,,
-Combined,Government Schools,TAS,25,,,,,
-Combined,Government Schools,AUSTRALIA,9,,,,,
-Special Schools,Government Schools,NSW,114,,,,,
-Special Schools,Government Schools,VIC,82,,,,,
-Special Schools,Government Schools,QLD,46,,,,,
-Special Schools,Government Schools,SA,18,,,,,
-Special Schools,Government Schools,WA,65,,,,,
-Special Schools,Government Schools,TAS,4,,,,,
-Special Schools,Government Schools,AUSTRALIA,4,,,,,
-Total,Government Schools,NSW,2154,,,,,
-Total,Government Schools,VIC,1560,,,,,
-Total,Government Schools,QLD,1250,,,,,
-Total,Government Schools,SA,508,,,,,
-Total,Government Schools,WA,810,,,,,
-Total,Government Schools,TAS,189,,,,,
-Total,Government Schools,AUSTRALIA,90,,,,,
-Primary,Non-government Schools,NSW,485,,,,,
-Primary,Non-government Schools,VIC,431,,,,,
-Primary,Non-government Schools,QLD,229,,,,,
-Primary,Non-government Schools,SA,86,,,,,
-Primary,Non-government Schools,WA,138,,,,,
-Primary,Non-government Schools,TAS,29,,,,,
-Primary,Non-government Schools,AUSTRALIA,1436,,,,,
-Secondary,Non-government Schools,NSW,140,,,,,
-Secondary,Non-government Schools,VIC,93,,,,,
-Secondary,Non-government Schools,QLD,85,,,,,
-Secondary,Non-government Schools,SA,17,,,,,
-Secondary,Non-government Schools,WA,30,,,,,
-Secondary,Non-government Schools,TAS,5,,,,,
-Secondary,Non-government Schools,AUSTRALIA,385,,,,,
-Combined,Non-government Schools,NSW,278,,,,,
-Combined,Non-government Schools,VIC,165,,,,,
-Combined,Non-government Schools,QLD,189,,,,,
-Combined,Non-government Schools,SA,91,,,,,
-Combined,Non-government Schools,WA,125,,,,,
-Combined,Non-government Schools,TAS,34,,,,,
-Combined,Non-government Schools,AUSTRALIA,917,,,,,
-Special Schools,Non-government Schools,NSW,68,,,,,
-Special Schools,Non-government Schools,VIC,34,,,,,
-Special Schools,Non-government Schools,QLD,44,,,,,
-Special Schools,Non-government Schools,SA,10,,,,,
-Special Schools,Non-government Schools,WA,17,,,,,
-Special Schools,Non-government Schools,TAS,4,,,,,
-Special Schools,Non-government Schools,AUSTRALIA,179,,,,,
-Total,Non-government Schools,NSW,971,,,,,
-Total,Non-government Schools,VIC,723,,,,,
-Total,Non-government Schools,QLD,547,,,,,
-Total,Non-government Schools,SA,204,,,,,
-Total,Non-government Schools,WA,310,,,,,
-Total,Non-government Schools,TAS,72,,,,,
-Total,Non-government Schools,AUSTRALIA,2917,,,,,
-Primary,Catholic Schools,NSW,419,,,,,
-Primary,Catholic Schools,VIC,396,,,,,
-Primary,Catholic Schools,QLD,197,,,,,
-Primary,Catholic Schools,SA,59,,,,,
-Primary,Catholic Schools,WA,110,,,,,
-Primary,Catholic Schools,TAS,24,,,,,
-Primary,Catholic Schools,AUSTRALIA,1237,,,,,
-Secondary,Catholic Schools,NSW,127,,,,,
-Secondary,Catholic Schools,VIC,84,,,,,
-Secondary,Catholic Schools,QLD,63,,,,,
-Secondary,Catholic Schools,SA,9,,,,,
-Secondary,Catholic Schools,WA,22,,,,,
-Secondary,Catholic Schools,TAS,5,,,,,
-Secondary,Catholic Schools,AUSTRALIA,320,,,,,
-Combined,Catholic Schools,NSW,36,,,,,
-Combined,Catholic Schools,VIC,14,,,,,
-Combined,Catholic Schools,QLD,39,,,,,
-Combined,Catholic Schools,SA,28,,,,,
-Combined,Catholic Schools,WA,28,,,,,
-Combined,Catholic Schools,TAS,8,,,,,
-Combined,Catholic Schools,AUSTRALIA,160,,,,,
-Special Schools,Catholic Schools,NSW,14,,,,,
-Special Schools,Catholic Schools,VIC,7,,,,,
-Special Schools,Catholic Schools,QLD,14,,,,,
-Special Schools,Catholic Schools,SA,5,,,,,
-Special Schools,Catholic Schools,WA,5,,,,,
-Special Schools,Catholic Schools,TAS,1,,,,,
-Special Schools,Catholic Schools,AUSTRALIA,47,,,,,
-Total,Catholic Schools,NSW,596,,,,,
-Total,Catholic Schools,VIC,501,,,,,
-Total,Catholic Schools,QLD,313,,,,,
-Total,Catholic Schools,SA,101,,,,,
-Total,Catholic Schools,WA,165,,,,,
-Total,Catholic Schools,TAS,38,,,,,
-Total,Catholic Schools,AUSTRALIA,1764,,,,,
-Primary,Independent Schools,NSW,66,,,,,
-Primary,Independent Schools,VIC,35,,,,,
-Primary,Independent Schools,QLD,32,,,,,
-Primary,Independent Schools,SA,27,,,,,
-Primary,Independent Schools,WA,28,,,,,
-Primary,Independent Schools,TAS,5,,,,,
-Primary,Independent Schools,AUSTRALIA,199,,,,,
-Secondary,Independent Schools,NSW,13,,,,,
-Secondary,Independent Schools,VIC,9,,,,,
-Secondary,Independent Schools,QLD,22,,,,,
-Secondary,Independent Schools,SA,8,,,,,
-Secondary,Independent Schools,WA,8,,,,,
-Secondary,Independent Schools,TAS,0,,,,,
-Secondary,Independent Schools,AUSTRALIA,65,,,,,
-Combined,Independent Schools,NSW,242,,,,,
-Combined,Independent Schools,VIC,151,,,,,
-Combined,Independent Schools,QLD,150,,,,,
-Combined,Independent Schools,SA,63,,,,,
-Combined,Independent Schools,WA,97,,,,,
-Combined,Independent Schools,TAS,26,,,,,
-Combined,Independent Schools,AUSTRALIA,757,,,,,
-Special Schools,Independent Schools,NSW,54,,,,,
-Special Schools,Independent Schools,VIC,27,,,,,
-Special Schools,Independent Schools,QLD,30,,,,,
-Special Schools,Independent Schools,SA,5,,,,,
-Special Schools,Independent Schools,WA,12,,,,,
-Special Schools,Independent Schools,TAS,3,,,,,
-Special Schools,Independent Schools,AUSTRALIA,132,,,,,
-Total,Independent Schools,NSW,375,,,,,
-Total,Independent Schools,VIC,222,,,,,
-Total,Independent Schools,QLD,234,,,,,
-Total,Independent Schools,SA,103,,,,,
-Total,Independent Schools,WA,145,,,,,
-Total,Independent Schools,TAS,34,,,,,
-Total,Independent Schools,AUSTRALIA,1153,,,,,
+﻿Type,Affiliaion,State,Enrollment
+Primary,Total Schools,NSW,2089
+Primary,Total Schools,VIC,1571
+Primary,Total Schools,QLD,1145
+Primary,Total Schools,SA,434
+Primary,Total Schools,WA,686
+Primary,Total Schools,TAS,153
+Primary,Total Schools,AUSTRALIA,6237
+Secondary,Total Schools,NSW,511
+Secondary,Total Schools,VIC,345
+Secondary,Total Schools,QLD,279
+Secondary,Total Schools,SA,85
+Secondary,Total Schools,WA,143
+Secondary,Total Schools,TAS,41
+Secondary,Total Schools,AUSTRALIA,1453
+Combined,Total Schools,NSW,343
+Combined,Total Schools,VIC,251
+Combined,Total Schools,QLD,283
+Combined,Total Schools,SA,165
+Combined,Total Schools,WA,209
+Combined,Total Schools,TAS,59
+Combined,Total Schools,AUSTRALIA,1422
+Special Schools,Total Schools,NSW,182
+Special Schools,Total Schools,VIC,116
+Special Schools,Total Schools,QLD,90
+Special Schools,Total Schools,SA,28
+Special Schools,Total Schools,WA,82
+Special Schools,Total Schools,TAS,8
+Special Schools,Total Schools,AUSTRALIA,517
+Total,Total Schools,NSW,3125
+Total,Total Schools,VIC,2283
+Total,Total Schools,QLD,1797
+Total,Total Schools,SA,712
+Total,Total Schools,WA,1120
+Total,Total Schools,TAS,261
+Total,Total Schools,AUSTRALIA,9629
+Primary,Government Schools,NSW,1604
+Primary,Government Schools,VIC,1140
+Primary,Government Schools,QLD,916
+Primary,Government Schools,SA,348
+Primary,Government Schools,WA,548
+Primary,Government Schools,TAS,124
+Primary,Government Schools,AUSTRALIA,58
+Secondary,Government Schools,NSW,371
+Secondary,Government Schools,VIC,252
+Secondary,Government Schools,QLD,194
+Secondary,Government Schools,SA,68
+Secondary,Government Schools,WA,113
+Secondary,Government Schools,TAS,36
+Secondary,Government Schools,AUSTRALIA,19
+Combined,Government Schools,NSW,65
+Combined,Government Schools,VIC,86
+Combined,Government Schools,QLD,94
+Combined,Government Schools,SA,74
+Combined,Government Schools,WA,84
+Combined,Government Schools,TAS,25
+Combined,Government Schools,AUSTRALIA,9
+Special Schools,Government Schools,NSW,114
+Special Schools,Government Schools,VIC,82
+Special Schools,Government Schools,QLD,46
+Special Schools,Government Schools,SA,18
+Special Schools,Government Schools,WA,65
+Special Schools,Government Schools,TAS,4
+Special Schools,Government Schools,AUSTRALIA,4
+Total,Government Schools,NSW,2154
+Total,Government Schools,VIC,1560
+Total,Government Schools,QLD,1250
+Total,Government Schools,SA,508
+Total,Government Schools,WA,810
+Total,Government Schools,TAS,189
+Total,Government Schools,AUSTRALIA,90
+Primary,Non-government Schools,NSW,485
+Primary,Non-government Schools,VIC,431
+Primary,Non-government Schools,QLD,229
+Primary,Non-government Schools,SA,86
+Primary,Non-government Schools,WA,138
+Primary,Non-government Schools,TAS,29
+Primary,Non-government Schools,AUSTRALIA,1436
+Secondary,Non-government Schools,NSW,140
+Secondary,Non-government Schools,VIC,93
+Secondary,Non-government Schools,QLD,85
+Secondary,Non-government Schools,SA,17
+Secondary,Non-government Schools,WA,30
+Secondary,Non-government Schools,TAS,5
+Secondary,Non-government Schools,AUSTRALIA,385
+Combined,Non-government Schools,NSW,278
+Combined,Non-government Schools,VIC,165
+Combined,Non-government Schools,QLD,189
+Combined,Non-government Schools,SA,91
+Combined,Non-government Schools,WA,125
+Combined,Non-government Schools,TAS,34
+Combined,Non-government Schools,AUSTRALIA,917
+Special Schools,Non-government Schools,NSW,68
+Special Schools,Non-government Schools,VIC,34
+Special Schools,Non-government Schools,QLD,44
+Special Schools,Non-government Schools,SA,10
+Special Schools,Non-government Schools,WA,17
+Special Schools,Non-government Schools,TAS,4
+Special Schools,Non-government Schools,AUSTRALIA,179
+Total,Non-government Schools,NSW,971
+Total,Non-government Schools,VIC,723
+Total,Non-government Schools,QLD,547
+Total,Non-government Schools,SA,204
+Total,Non-government Schools,WA,310
+Total,Non-government Schools,TAS,72
+Total,Non-government Schools,AUSTRALIA,2917
+Primary,Catholic Schools,NSW,419
+Primary,Catholic Schools,VIC,396
+Primary,Catholic Schools,QLD,197
+Primary,Catholic Schools,SA,59
+Primary,Catholic Schools,WA,110
+Primary,Catholic Schools,TAS,24
+Primary,Catholic Schools,AUSTRALIA,1237
+Secondary,Catholic Schools,NSW,127
+Secondary,Catholic Schools,VIC,84
+Secondary,Catholic Schools,QLD,63
+Secondary,Catholic Schools,SA,9
+Secondary,Catholic Schools,WA,22
+Secondary,Catholic Schools,TAS,5
+Secondary,Catholic Schools,AUSTRALIA,320
+Combined,Catholic Schools,NSW,36
+Combined,Catholic Schools,VIC,14
+Combined,Catholic Schools,QLD,39
+Combined,Catholic Schools,SA,28
+Combined,Catholic Schools,WA,28
+Combined,Catholic Schools,TAS,8
+Combined,Catholic Schools,AUSTRALIA,160
+Special Schools,Catholic Schools,NSW,14
+Special Schools,Catholic Schools,VIC,7
+Special Schools,Catholic Schools,QLD,14
+Special Schools,Catholic Schools,SA,5
+Special Schools,Catholic Schools,WA,5
+Special Schools,Catholic Schools,TAS,1
+Special Schools,Catholic Schools,AUSTRALIA,47
+Total,Catholic Schools,NSW,596
+Total,Catholic Schools,VIC,501
+Total,Catholic Schools,QLD,313
+Total,Catholic Schools,SA,101
+Total,Catholic Schools,WA,165
+Total,Catholic Schools,TAS,38
+Total,Catholic Schools,AUSTRALIA,1764
+Primary,Independent Schools,NSW,66
+Primary,Independent Schools,VIC,35
+Primary,Independent Schools,QLD,32
+Primary,Independent Schools,SA,27
+Primary,Independent Schools,WA,28
+Primary,Independent Schools,TAS,5
+Primary,Independent Schools,AUSTRALIA,199
+Secondary,Independent Schools,NSW,13
+Secondary,Independent Schools,VIC,9
+Secondary,Independent Schools,QLD,22
+Secondary,Independent Schools,SA,8
+Secondary,Independent Schools,WA,8
+Secondary,Independent Schools,TAS,0
+Secondary,Independent Schools,AUSTRALIA,65
+Combined,Independent Schools,NSW,242
+Combined,Independent Schools,VIC,151
+Combined,Independent Schools,QLD,150
+Combined,Independent Schools,SA,63
+Combined,Independent Schools,WA,97
+Combined,Independent Schools,TAS,26
+Combined,Independent Schools,AUSTRALIA,757
+Special Schools,Independent Schools,NSW,54
+Special Schools,Independent Schools,VIC,27
+Special Schools,Independent Schools,QLD,30
+Special Schools,Independent Schools,SA,5
+Special Schools,Independent Schools,WA,12
+Special Schools,Independent Schools,TAS,3
+Special Schools,Independent Schools,AUSTRALIA,132
+Total,Independent Schools,NSW,375
+Total,Independent Schools,VIC,222
+Total,Independent Schools,QLD,234
+Total,Independent Schools,SA,103
+Total,Independent Schools,WA,145
+Total,Independent Schools,TAS,34
+Total,Independent Schools,AUSTRALIA,1153
