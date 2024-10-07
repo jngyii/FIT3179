@@ -3,14 +3,10 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Combined Visualizations</title>
-  <script src="https://cdn.jsdelivr.net/npm/vega@5.22.1"></script>
-  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.2.0"></script>
-  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.20.8"></script>
-  <style>
-    body { font-family: Arial, sans-serif; margin: 0; padding: 20px; }
-    #vis { width: 100%; max-width: 800px; margin: 0 auto; }
-  </style>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/vega/5.22.1/vega.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/vega-lite/5.6.0/vega-lite.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/vega-embed/6.21.0/vega-embed.min.js"></script>
+  <title>Education Enrollment and World Crime Index Visualizations</title>
 </head>
 <body>
   <div id="vis"></div>
@@ -31,24 +27,24 @@
       ],
       "vconcat": [
         {
-          "title": "School Enrollment by State and Type in Australia",
           "width": 800,
-          "height": 600,
+          "height": 400,
           "data": {
-            "url": "https://raw.githubusercontent.com/jngyii/FIT3179/refs/heads/main/data%20for%20week%2010%20homework/Counts%20of%20all%20Schools%20cleaned",
+            "url": "https://raw.githubusercontent.com/jngyii/FIT3179/refs/heads/main/data%20for%20assignment2/Type%20of%20education%20institution%20by%20sex.csv",
             "format": {"type": "csv"}
           },
           "transform": [
             {
-              "filter": "datum.State !== 'AUSTRALIA' && datum.Type !== 'Total'"
+              "filter": "datum.Gender !== 'Persons'"
             }
           ],
           "encoding": {
             "x": {
-              "field": "State",
+              "field": "Type",
               "type": "ordinal",
-              "title": "State",
+              "title": "School Type",
               "axis": {
+                "labelAngle": -15,
                 "tickCount": 7
               }
             },
@@ -66,28 +62,31 @@
             {
               "mark": "bar",
               "selection": {
-                "type_highlight": {
+                "gender_filter": {
                   "type": "multi",
-                  "fields": ["Type"],
+                  "fields": ["Gender"],
                   "bind": "legend"
                 }
               },
+              "transform": [
+                {
+                  "filter": {
+                    "selection": "gender_filter"
+                  }
+                }
+              ],
               "encoding": {
                 "color": {
-                  "field": "Type",
+                  "field": "Gender",
                   "type": "nominal",
-                  "title": "School Type"
-                },
-                "opacity": {
-                  "condition": {
-                    "selection": "type_highlight",
-                    "value": 0.9
-                  },
-                  "value": 0.3
+                  "title": "Gender",
+                  "scale": {
+                    "range": ["#aec6ff", "#CF9FFF"]
+                  }
                 },
                 "tooltip": [
-                  { "field": "State", "type": "ordinal", "title": "State" },
-                  { "field": "Type", "type": "nominal", "title": "School Type" },
+                  { "field": "Type", "type": "ordinal", "title": "School Type" },
+                  { "field": "Gender", "type": "nominal", "title": "Gender" },
                   { "field": "Enrollment", "type": "quantitative", "title": "Enrollment" }
                 ]
               }
@@ -99,6 +98,13 @@
                 "align": "center",
                 "fontSize": 12
               },
+              "transform": [
+                {
+                  "filter": {
+                    "selection": "gender_filter"
+                  }
+                }
+              ],
               "encoding": {
                 "text": {
                   "aggregate": "sum",
@@ -106,7 +112,7 @@
                   "type": "quantitative"
                 },
                 "x": {
-                  "field": "State",
+                  "field": "Type",
                   "type": "ordinal"
                 },
                 "y": {
@@ -124,9 +130,9 @@
           "height": 500,
           "data": {
             "url": "https://raw.githubusercontent.com/FIT3179/Vega-Lite/main/3_choropleth_map/js/ne_110m_admin_0_countries.topojson",
-            "format": { "type": "topojson", "feature": "ne_110m_admin_0_countries" }
+            "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
           },
-          "projection": { "type": "equalEarth" },
+          "projection": {"type": "equalEarth"},
           "layer": [
             {
               "transform": [
@@ -135,9 +141,9 @@
                   "as": "note"
                 }
               ],
-              "mark": { "type": "geoshape", "fill": "lightgray", "stroke": "white" },
+              "mark": {"type": "geoshape", "fill": "lightgray", "stroke": "white"},
               "encoding": {
-                "tooltip": { "field": "note" }
+                "tooltip": {"field": "note"}
               }
             },
             {
@@ -157,14 +163,14 @@
                   "as": "SelectedIndex"
                 }
               ],
-              "mark": { "type": "geoshape", "stroke": "white" },
+              "mark": {"type": "geoshape", "stroke": "white"},
               "encoding": {
                 "color": {
                   "field": "SelectedIndex",
                   "type": "quantitative",
                   "scale": {
                     "domain": [0, 100],
-                    "range": ["#f2e5ff", "#ba55d3", "#4b0082"]
+                    "scheme": {"expr": "IndexSelection === 'Crime Index' ? 'purples' : 'blues'"}
                   },
                   "legend": {
                     "title": "Index Value",
@@ -174,8 +180,8 @@
                   }
                 },
                 "tooltip": [
-                  { "field": "properties.NAME", "type": "nominal", "title": "Country" },
-                  { "field": "SelectedIndex", "type": "quantitative", "format": ".2f", "title": "Index Value" }
+                  {"field": "properties.NAME", "type": "nominal", "title": "Country"},
+                  {"field": "SelectedIndex", "type": "quantitative", "format": ".2f", "title": "Index Value"}
                 ]
               }
             }
