@@ -1,9 +1,9 @@
-﻿Type,Affiliaion,State,Enrollment
-Primary,Total Schools,New South Wales,2089
-Primary,Total Schools,Victoria,1571
-Primary,Total Schools,Queensland,1145
-Primary,Total Schools,South Australia,434
-Primary,Total Schools,Western Australia,686
-Primary,Total Schools,Tasmania,153
-Primary,Total Schools,Northern Territory,74
-Primary,Total Schools,Australian Capital Territory,85
+Type,Affiliation,State,Enrollment,Latitude,Longitude
+Primary,Total Schools,New South Wales,2089,-33.8688,151.2093
+Primary,Total Schools,Victoria,1571,-37.8136,144.9631
+Primary,Total Schools,Queensland,1145,-27.4698,153.0251
+Primary,Total Schools,South Australia,434,-34.9285,138.6007
+Primary,Total Schools,Western Australia,686,-31.9505,115.8605
+Primary,Total Schools,Tasmania,153,-42.8821,147.3272
+Primary,Total Schools,Northern Territory,74,-12.4634,130.8456
+Primary,Total Schools,Australian Capital Territory,85,-35.2809,149.1300
