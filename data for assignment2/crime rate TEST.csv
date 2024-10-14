@@ -1,0 +1,225 @@
+﻿Crime type,State,"Offender rate per 100,000 people",Level of education,Enrollment percentage,
+Homicide and related offences,New South Wales,2.9,Bachelor Degree,14.93,
+Homicide and related offences,Victoria,2.2,Bachelor Degree,15.79,
+Homicide and related offences,Queensland,3,Bachelor Degree,12.41,
+Homicide and related offences,South Australia,0.9,Bachelor Degree,12.38,
+Homicide and related offences,West Australia,3.5,Bachelor Degree,17.81,
+Homicide and related offences,Tasmania,3.5,Bachelor Degree,11.26,
+Homicide and related offences,North Territory,9.3,Bachelor Degree,10.02,
+Homicide and related offences,Australian Capital Territory,0.7,Bachelor Degree,19.73,
+Sexual assault and related offences,New South Wales,39.3,Bachelor Degree,14.93,
+Sexual assault and related offences,Victoria,28.5,Bachelor Degree,15.79,
+Sexual assault and related offences,Queensland,57.6,Bachelor Degree,12.41,
+Sexual assault and related offences,South Australia,27.9,Bachelor Degree,12.38,
+Sexual assault and related offences,West Australia,55.8,Bachelor Degree,17.81,
+Sexual assault and related offences,Tasmania,29.9,Bachelor Degree,11.26,
+Sexual assault and related offences,North Territory,74.2,Bachelor Degree,10.02,
+Sexual assault and related offences,Australian Capital Territory,28.8,Bachelor Degree,19.73,
+Dangerous/negligent acts,New South Wales,1,Bachelor Degree,14.93,
+Dangerous/negligent acts,Victoria,14.4,Bachelor Degree,15.79,
+Dangerous/negligent acts,Queensland,16.2,Bachelor Degree,12.41,
+Dangerous/negligent acts,South Australia,2.9,Bachelor Degree,12.38,
+Dangerous/negligent acts,West Australia,7.5,Bachelor Degree,17.81,
+Dangerous/negligent acts,Tasmania,0.6,Bachelor Degree,11.26,
+Dangerous/negligent acts,North Territory,19.5,Bachelor Degree,10.02,
+Dangerous/negligent acts,Australian Capital Territory,2.7,Bachelor Degree,19.73,
+Abduction/harassment,New South Wales,16.9,Bachelor Degree,14.93,
+Abduction/harassment,Victoria,32.3,Bachelor Degree,15.79,
+Abduction/harassment,Queensland,1.5,Bachelor Degree,12.41,
+Abduction/harassment,South Australia,7.5,Bachelor Degree,12.38,
+Abduction/harassment,West Australia,42.2,Bachelor Degree,17.81,
+Abduction/harassment,Tasmania,3.3,Bachelor Degree,11.26,
+Abduction/harassment,North Territory,38,Bachelor Degree,10.02,
+Abduction/harassment,Australian Capital Territory,10.6,Bachelor Degree,19.73,
+Robbery/extortion,New South Wales,9.6,Bachelor Degree,14.93,
+Robbery/extortion,Victoria,12.6,Bachelor Degree,15.79,
+Robbery/extortion,Queensland,25.5,Bachelor Degree,12.41,
+Robbery/extortion,South Australia,11.6,Bachelor Degree,12.38,
+Robbery/extortion,West Australia,32,Bachelor Degree,17.81,
+Robbery/extortion,Tasmania,18.6,Bachelor Degree,11.26,
+Robbery/extortion,North Territory,108.9,Bachelor Degree,10.02,
+Robbery/extortion,Australian Capital Territory,13.3,Bachelor Degree,19.73,
+Unlawful entry with intent,New South Wales,29.3,Bachelor Degree,14.93,
+Unlawful entry with intent,Victoria,28,Bachelor Degree,15.79,
+Unlawful entry with intent,Queensland,79.7,Bachelor Degree,12.41,
+Unlawful entry with intent,South Australia,53.1,Bachelor Degree,12.38,
+Unlawful entry with intent,West Australia,89.6,Bachelor Degree,17.81,
+Unlawful entry with intent,Tasmania,30.1,Bachelor Degree,11.26,
+Unlawful entry with intent,North Territory,208.1,Bachelor Degree,10.02,
+Unlawful entry with intent,Australian Capital Territory,21.2,Bachelor Degree,19.73,
+Theft,New South Wales,132.3,Bachelor Degree,14.93,
+Theft,Victoria,121.3,Bachelor Degree,15.79,
+Theft,Queensland,224.9,Bachelor Degree,12.41,
+Theft,South Australia,115.4,Bachelor Degree,12.38,
+Theft,West Australia,183.5,Bachelor Degree,17.81,
+Theft,Tasmania,174.4,Bachelor Degree,11.26,
+Theft,North Territory,111.2,Bachelor Degree,10.02,
+Theft,Australian Capital Territory,50.7,Bachelor Degree,19.73,
+Fraud/deception,New South Wales,40.6,Bachelor Degree,14.93,
+Fraud/deception,Victoria,37.6,Bachelor Degree,15.79,
+Fraud/deception,Queensland,36.7,Bachelor Degree,12.41,
+Fraud/deception,South Australia,12.2,Bachelor Degree,12.38,
+Fraud/deception,West Australia,57.8,Bachelor Degree,17.81,
+Fraud/deception,Tasmania,39.3,Bachelor Degree,11.26,
+Fraud/deception,North Territory,28.3,Bachelor Degree,10.02,
+Fraud/deception,Australian Capital Territory,15.8,Bachelor Degree,19.73,
+Illicit drug offences,New South Wales,182.8,Bachelor Degree,14.93,
+Illicit drug offences,Victoria,131.1,Bachelor Degree,15.79,
+Illicit drug offences,Queensland,336.3,Bachelor Degree,12.41,
+Illicit drug offences,South Australia,468.1,Bachelor Degree,12.38,
+Illicit drug offences,West Australia,233.5,Bachelor Degree,17.81,
+Illicit drug offences,Tasmania,172.4,Bachelor Degree,11.26,
+Illicit drug offences,North Territory,378.6,Bachelor Degree,10.02,
+Illicit drug offences,Australian Capital Territory,55.7,Bachelor Degree,19.73,
+Weapons/explosives,New South Wales,29.8,Bachelor Degree,14.93,
+Weapons/explosives,Victoria,89.1,Bachelor Degree,15.79,
+Weapons/explosives,Queensland,34.7,Bachelor Degree,12.41,
+Weapons/explosives,South Australia,74.3,Bachelor Degree,12.38,
+Weapons/explosives,West Australia,62.7,Bachelor Degree,17.81,
+Weapons/explosives,Tasmania,85.2,Bachelor Degree,11.26,
+Weapons/explosives,North Territory,149.7,Bachelor Degree,10.02,
+Weapons/explosives,Australian Capital Territory,37.2,Bachelor Degree,19.73,
+Property damage and environment pollution,New South Wales,55.4,Bachelor Degree,14.93,
+Property damage and environment pollution,Victoria,53.5,Bachelor Degree,15.79,
+Property damage and environment pollution,Queensland,81.8,Bachelor Degree,12.41,
+Property damage and environment pollution,South Australia,50.7,Bachelor Degree,12.38,
+Property damage and environment pollution,West Australia,68,Bachelor Degree,17.81,
+Property damage and environment pollution,Tasmania,83.5,Bachelor Degree,11.26,
+Property damage and environment pollution,North Territory,91.8,Bachelor Degree,10.02,
+Property damage and environment pollution,Australian Capital Territory,40.2,Bachelor Degree,19.73,
+Public order offences,New South Wales,155.2,Bachelor Degree,14.93,
+Public order offences,Victoria,80.7,Bachelor Degree,15.79,
+Public order offences,Queensland,225.5,Bachelor Degree,12.41,
+Public order offences,South Australia,264.3,Bachelor Degree,12.38,
+Public order offences,West Australia,118.6,Bachelor Degree,17.81,
+Public order offences,Tasmania,157.6,Bachelor Degree,11.26,
+Public order offences,North Territory,838.8,Bachelor Degree,10.02,
+Public order offences,Australian Capital Territory,60.6,Bachelor Degree,19.73,
+Offences against justice,New South Wales,79.1,Bachelor Degree,14.93,
+Offences against justice,Victoria,92.9,Bachelor Degree,15.79,
+Offences against justice,Queensland,264.9,Bachelor Degree,12.41,
+Offences against justice,South Australia,81.7,Bachelor Degree,12.38,
+Offences against justice,West Australia,170.2,Bachelor Degree,17.81,
+Offences against justice,Tasmania,129.4,Bachelor Degree,11.26,
+Offences against justice,North Territory,342.5,Bachelor Degree,10.02,
+Offences against justice,Australian Capital Territory,71.7,Bachelor Degree,19.73,
+Miscellaneous offences,New South Wales,73.9,Bachelor Degree,14.93,
+Miscellaneous offences,Victoria,68.4,Bachelor Degree,15.79,
+Miscellaneous offences,Queensland,4.3,Bachelor Degree,12.41,
+Miscellaneous offences,South Australia,41.6,Bachelor Degree,12.38,
+Miscellaneous offences,West Australia,14.7,Bachelor Degree,17.81,
+Miscellaneous offences,Tasmania,100.9,Bachelor Degree,11.26,
+Miscellaneous offences,North Territory,22.2,Bachelor Degree,10.02,
+Miscellaneous offences,Australian Capital Territory,5.7,Bachelor Degree,19.73,
+Homicide and related offences,New South Wales,2.9,No educational attainment,64827,0.8
+Homicide and related offences,Victoria,2.2,No educational attainment,59722,0.94
+Homicide and related offences,Queensland,3,No educational attainment,20032,0.4
+Homicide and related offences,South Australia,0.9,No educational attainment,12943,0.71
+Homicide and related offences,West Australia,3.5,No educational attainment,12723,0.64
+Homicide and related offences,Tasmania,3.5,No educational attainment,1864,0.33
+Homicide and related offences,North Territory,9.3,No educational attainment,2134,0.86
+Homicide and related offences,Australian Capital Territory,0.7,No educational attainment,1479,0.32
+Sexual assault and related offences,New South Wales,39.3,No educational attainment,64827,0.8
+Sexual assault and related offences,Victoria,28.5,No educational attainment,59722,0.94
+Sexual assault and related offences,Queensland,57.6,No educational attainment,20032,0.4
+Sexual assault and related offences,South Australia,27.9,No educational attainment,12943,0.71
+Sexual assault and related offences,West Australia,55.8,No educational attainment,12723,0.64
+Sexual assault and related offences,Tasmania,29.9,No educational attainment,1864,0.33
+Sexual assault and related offences,North Territory,74.2,No educational attainment,2134,0.86
+Sexual assault and related offences,Australian Capital Territory,28.8,No educational attainment,1479,0.32
+Dangerous/negligent acts,New South Wales,1,No educational attainment,64827,0.8
+Dangerous/negligent acts,Victoria,14.4,No educational attainment,59722,0.94
+Dangerous/negligent acts,Queensland,16.2,No educational attainment,20032,0.4
+Dangerous/negligent acts,South Australia,2.9,No educational attainment,12943,0.71
+Dangerous/negligent acts,West Australia,7.5,No educational attainment,12723,0.64
+Dangerous/negligent acts,Tasmania,0.6,No educational attainment,1864,0.33
+Dangerous/negligent acts,North Territory,19.5,No educational attainment,2134,0.86
+Dangerous/negligent acts,Australian Capital Territory,2.7,No educational attainment,1479,0.32
+Abduction/harassment,New South Wales,16.9,No educational attainment,64827,0.8
+Abduction/harassment,Victoria,32.3,No educational attainment,59722,0.94
+Abduction/harassment,Queensland,1.5,No educational attainment,20032,0.4
+Abduction/harassment,South Australia,7.5,No educational attainment,12943,0.71
+Abduction/harassment,West Australia,42.2,No educational attainment,12723,0.64
+Abduction/harassment,Tasmania,3.3,No educational attainment,1864,0.33
+Abduction/harassment,North Territory,38,No educational attainment,2134,0.86
+Abduction/harassment,Australian Capital Territory,10.6,No educational attainment,1479,0.32
+Robbery/extortion,New South Wales,9.6,No educational attainment,64827,0.8
+Robbery/extortion,Victoria,12.6,No educational attainment,59722,0.94
+Robbery/extortion,Queensland,25.5,No educational attainment,20032,0.4
+Robbery/extortion,South Australia,11.6,No educational attainment,12943,0.71
+Robbery/extortion,West Australia,32,No educational attainment,12723,0.64
+Robbery/extortion,Tasmania,18.6,No educational attainment,1864,0.33
+Robbery/extortion,North Territory,108.9,No educational attainment,2134,0.86
+Robbery/extortion,Australian Capital Territory,13.3,No educational attainment,1479,0.32
+Unlawful entry with intent,New South Wales,29.3,No educational attainment,64827,0.8
+Unlawful entry with intent,Victoria,28,No educational attainment,59722,0.94
+Unlawful entry with intent,Queensland,79.7,No educational attainment,20032,0.4
+Unlawful entry with intent,South Australia,53.1,No educational attainment,12943,0.71
+Unlawful entry with intent,West Australia,89.6,No educational attainment,12723,0.64
+Unlawful entry with intent,Tasmania,30.1,No educational attainment,1864,0.33
+Unlawful entry with intent,North Territory,208.1,No educational attainment,2134,0.86
+Unlawful entry with intent,Australian Capital Territory,21.2,No educational attainment,1479,0.32
+Theft,New South Wales,132.3,No educational attainment,64827,0.8
+Theft,Victoria,121.3,No educational attainment,59722,0.94
+Theft,Queensland,224.9,No educational attainment,20032,0.4
+Theft,South Australia,115.4,No educational attainment,12943,0.71
+Theft,West Australia,183.5,No educational attainment,12723,0.64
+Theft,Tasmania,174.4,No educational attainment,1864,0.33
+Theft,North Territory,111.2,No educational attainment,2134,0.86
+Theft,Australian Capital Territory,50.7,No educational attainment,1479,0.32
+Fraud/deception,New South Wales,40.6,No educational attainment,64827,0.8
+Fraud/deception,Victoria,37.6,No educational attainment,59722,0.94
+Fraud/deception,Queensland,36.7,No educational attainment,20032,0.4
+Fraud/deception,South Australia,12.2,No educational attainment,12943,0.71
+Fraud/deception,West Australia,57.8,No educational attainment,12723,0.64
+Fraud/deception,Tasmania,39.3,No educational attainment,1864,0.33
+Fraud/deception,North Territory,28.3,No educational attainment,2134,0.86
+Fraud/deception,Australian Capital Territory,15.8,No educational attainment,1479,0.32
+Illicit drug offences,New South Wales,182.8,No educational attainment,64827,0.8
+Illicit drug offences,Victoria,131.1,No educational attainment,59722,0.94
+Illicit drug offences,Queensland,336.3,No educational attainment,20032,0.4
+Illicit drug offences,South Australia,468.1,No educational attainment,12943,0.71
+Illicit drug offences,West Australia,233.5,No educational attainment,12723,0.64
+Illicit drug offences,Tasmania,172.4,No educational attainment,1864,0.33
+Illicit drug offences,North Territory,378.6,No educational attainment,2134,0.86
+Illicit drug offences,Australian Capital Territory,55.7,No educational attainment,1479,0.32
+Weapons/explosives,New South Wales,29.8,No educational attainment,64827,0.8
+Weapons/explosives,Victoria,89.1,No educational attainment,59722,0.94
+Weapons/explosives,Queensland,34.7,No educational attainment,20032,0.4
+Weapons/explosives,South Australia,74.3,No educational attainment,12943,0.71
+Weapons/explosives,West Australia,62.7,No educational attainment,12723,0.64
+Weapons/explosives,Tasmania,85.2,No educational attainment,1864,0.33
+Weapons/explosives,North Territory,149.7,No educational attainment,2134,0.86
+Weapons/explosives,Australian Capital Territory,37.2,No educational attainment,1479,0.32
+Property damage and environment pollution,New South Wales,55.4,No educational attainment,64827,0.8
+Property damage and environment pollution,Victoria,53.5,No educational attainment,59722,0.94
+Property damage and environment pollution,Queensland,81.8,No educational attainment,20032,0.4
+Property damage and environment pollution,South Australia,50.7,No educational attainment,12943,0.71
+Property damage and environment pollution,West Australia,68,No educational attainment,12723,0.64
+Property damage and environment pollution,Tasmania,83.5,No educational attainment,1864,0.33
+Property damage and environment pollution,North Territory,91.8,No educational attainment,2134,0.86
+Property damage and environment pollution,Australian Capital Territory,40.2,No educational attainment,1479,0.32
+Public order offences,New South Wales,155.2,No educational attainment,64827,0.8
+Public order offences,Victoria,80.7,No educational attainment,59722,0.94
+Public order offences,Queensland,225.5,No educational attainment,20032,0.4
+Public order offences,South Australia,264.3,No educational attainment,12943,0.71
+Public order offences,West Australia,118.6,No educational attainment,12723,0.64
+Public order offences,Tasmania,157.6,No educational attainment,1864,0.33
+Public order offences,North Territory,838.8,No educational attainment,2134,0.86
+Public order offences,Australian Capital Territory,60.6,No educational attainment,1479,0.32
+Offences against justice,New South Wales,79.1,No educational attainment,64827,0.8
+Offences against justice,Victoria,92.9,No educational attainment,59722,0.94
+Offences against justice,Queensland,264.9,No educational attainment,20032,0.4
+Offences against justice,South Australia,81.7,No educational attainment,12943,0.71
+Offences against justice,West Australia,170.2,No educational attainment,12723,0.64
+Offences against justice,Tasmania,129.4,No educational attainment,1864,0.33
+Offences against justice,North Territory,342.5,No educational attainment,2134,0.86
+Offences against justice,Australian Capital Territory,71.7,No educational attainment,1479,0.32
+Miscellaneous offences,New South Wales,73.9,No educational attainment,64827,0.8
+Miscellaneous offences,Victoria,68.4,No educational attainment,59722,0.94
+Miscellaneous offences,Queensland,4.3,No educational attainment,20032,0.4
+Miscellaneous offences,South Australia,41.6,No educational attainment,12943,0.71
+Miscellaneous offences,West Australia,14.7,No educational attainment,12723,0.64
+Miscellaneous offences,Tasmania,100.9,No educational attainment,1864,0.33
+Miscellaneous offences,North Territory,22.2,No educational attainment,2134,0.86
+Miscellaneous offences,Australian Capital Territory,5.7,No educational attainment,1479,0.32
