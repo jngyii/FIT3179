@@ -1,0 +1,129 @@
+﻿Crime type,State,"Offender rate per 100,000 people",Level of education,Number of enrollment,Enrollment percentage
+Homicide and related offences,New South Wales,2.9,Postgraduate Degree,485845,5.96
+Homicide and related offences,Victoria,2.2,Postgraduate Degree,399612,6.28
+Homicide and related offences,Queensland,3,Postgraduate Degree,196928,3.88
+Homicide and related offences,South Australia,0.9,Postgraduate Degree,76780,4.22
+Homicide and related offences,West Australia,3.5,Postgraduate Degree,109913,5.54
+Homicide and related offences,Tasmania,3.5,Postgraduate Degree,27212,4.76
+Homicide and related offences,North Territory,9.3,Postgraduate Degree,10260,4.13
+Homicide and related offences,Australian Capital Territory,0.7,Postgraduate Degree,52777,11.58
+Acts intended to cause injury,New South Wales,529.5,Graduate Diploma and Graduate Certificate,135609,1.66
+Acts intended to cause injury,Victoria,297.5,Graduate Diploma and Graduate Certificate,153446,2.41
+Acts intended to cause injury,Queensland,302.1,Graduate Diploma and Graduate Certificate,92233,1.82
+Acts intended to cause injury,South Australia,341.4,Graduate Diploma and Graduate Certificate,33029,1.81
+Acts intended to cause injury,West Australia,338.4,Graduate Diploma and Graduate Certificate,50138,2.53
+Acts intended to cause injury,Tasmania,416.8,Graduate Diploma and Graduate Certificate,10301,1.80
+Acts intended to cause injury,North Territory,"1,689.20",Graduate Diploma and Graduate Certificate,4302,1.73
+Acts intended to cause injury,Australian Capital Territory,222.2,Graduate Diploma and Graduate Certificate,16818,3.69
+Sexual assault and related offences,New South Wales,39.3,Bachelor Degree,1217048,14.93
+Sexual assault and related offences,Victoria,28.5,Bachelor Degree,1004394,15.79
+Sexual assault and related offences,Queensland,57.6,Bachelor Degree,629307,12.41
+Sexual assault and related offences,South Australia,27.9,Bachelor Degree,225405,12.38
+Sexual assault and related offences,West Australia,55.8,Bachelor Degree,353606,17.81
+Sexual assault and related offences,Tasmania,29.9,Bachelor Degree,64334,11.26
+Sexual assault and related offences,North Territory,74.2,Bachelor Degree,24866,10.02
+Sexual assault and related offences,Australian Capital Territory,28.8,Bachelor Degree,89954,19.73
+Dangerous/negligent acts,New South Wales,1,Advanced Diploma and Diploma,616322,7.56
+Dangerous/negligent acts,Victoria,14.4,Advanced Diploma and Diploma,521291,8.20
+Dangerous/negligent acts,Queensland,16.2,Advanced Diploma and Diploma,395615,7.80
+Dangerous/negligent acts,South Australia,2.9,Advanced Diploma and Diploma,127698,7.02
+Dangerous/negligent acts,West Australia,7.5,Advanced Diploma and Diploma,200659,10.11
+Dangerous/negligent acts,Tasmania,0.6,Advanced Diploma and Diploma,36691,6.42
+Dangerous/negligent acts,North Territory,19.5,Advanced Diploma and Diploma,13766,5.55
+Dangerous/negligent acts,Australian Capital Territory,2.7,Advanced Diploma and Diploma,34410,7.55
+Abduction/harassment,New South Wales,16.9,"Certificate (I,II,III,IV)",994520,12.20
+Abduction/harassment,Victoria,32.3,"Certificate (I,II,III,IV)",763831,12.01
+Abduction/harassment,Queensland,1.5,"Certificate (I,II,III,IV)",796554,15.71
+Abduction/harassment,South Australia,7.5,"Certificate (I,II,III,IV)",260843,14.33
+Abduction/harassment,West Australia,42.2,"Certificate (I,II,III,IV)",383888,19.34
+Abduction/harassment,Tasmania,3.3,"Certificate (I,II,III,IV)",86630,15.17
+Abduction/harassment,North Territory,38,"Certificate (I,II,III,IV)",29930,12.06
+Abduction/harassment,Australian Capital Territory,10.6,"Certificate (I,II,III,IV)",39997,8.77
+Robbery/extortion,New South Wales,9.6,Secondary Education,2353776,28.87
+Robbery/extortion,Victoria,12.6,Secondary Education,1914018,30.10
+Robbery/extortion,Queensland,25.5,Secondary Education,1597089,31.49
+Robbery/extortion,South Australia,11.6,Secondary Education,603922,33.18
+Robbery/extortion,West Australia,32,Secondary Education,801456,40.38
+Robbery/extortion,Tasmania,18.6,Secondary Education,189509,33.18
+Robbery/extortion,North Territory,108.9,Secondary Education,70831,28.54
+Robbery/extortion,Australian Capital Territory,13.3,Secondary Education,107776,23.64
+Unlawful entry with intent,New South Wales,29.3,No educational attainment,64827,0.80
+Unlawful entry with intent,Victoria,28,No educational attainment,59722,0.94
+Unlawful entry with intent,Queensland,79.7,No educational attainment,20032,0.40
+Unlawful entry with intent,South Australia,53.1,No educational attainment,12943,0.71
+Unlawful entry with intent,West Australia,89.6,No educational attainment,12723,0.64
+Unlawful entry with intent,Tasmania,30.1,No educational attainment,1864,0.33
+Unlawful entry with intent,North Territory,208.1,No educational attainment,2134,0.86
+Unlawful entry with intent,Australian Capital Territory,21.2,No educational attainment,1479,0.32
+Theft,New South Wales,132.3,Total,6602157,80.98
+Theft,Victoria,121.3,Total,5334032,83.88
+Theft,Queensland,224.9,Total,4191812,82.66
+Theft,South Australia,115.4,Total,1478375,81.23
+Theft,West Australia,183.5,Total,2154244,108.53
+Theft,Tasmania,174.4,Total,464930,81.40
+Theft,North Territory,111.2,Total,183704,74.03
+Theft,Australian Capital Territory,50.7,Total,371559,81.51
+Fraud/deception,New South Wales,40.6,,,
+Fraud/deception,Victoria,37.6,,,
+Fraud/deception,Queensland,36.7,,,
+Fraud/deception,South Australia,12.2,,,
+Fraud/deception,West Australia,57.8,,,
+Fraud/deception,Tasmania,39.3,,,
+Fraud/deception,North Territory,28.3,,,
+Fraud/deception,Australian Capital Territory,15.8,,,
+Illicit drug offences,New South Wales,182.8,,,
+Illicit drug offences,Victoria,131.1,,,
+Illicit drug offences,Queensland,336.3,,,
+Illicit drug offences,South Australia,468.1,,,
+Illicit drug offences,West Australia,233.5,,,
+Illicit drug offences,Tasmania,172.4,,,
+Illicit drug offences,North Territory,378.6,,,
+Illicit drug offences,Australian Capital Territory,55.7,,,
+Weapons/explosives,New South Wales,29.8,,,
+Weapons/explosives,Victoria,89.1,,,
+Weapons/explosives,Queensland,34.7,,,
+Weapons/explosives,South Australia,74.3,,,
+Weapons/explosives,West Australia,62.7,,,
+Weapons/explosives,Tasmania,85.2,,,
+Weapons/explosives,North Territory,149.7,,,
+Weapons/explosives,Australian Capital Territory,37.2,,,
+Property damage and environment pollution,New South Wales,55.4,,,
+Property damage and environment pollution,Victoria,53.5,,,
+Property damage and environment pollution,Queensland,81.8,,,
+Property damage and environment pollution,South Australia,50.7,,,
+Property damage and environment pollution,West Australia,68,,,
+Property damage and environment pollution,Tasmania,83.5,,,
+Property damage and environment pollution,North Territory,91.8,,,
+Property damage and environment pollution,Australian Capital Territory,40.2,,,
+Public order offences,New South Wales,155.2,,,
+Public order offences,Victoria,80.7,,,
+Public order offences,Queensland,225.5,,,
+Public order offences,South Australia,264.3,,,
+Public order offences,West Australia,118.6,,,
+Public order offences,Tasmania,157.6,,,
+Public order offences,North Territory,838.8,,,
+Public order offences,Australian Capital Territory,60.6,,,
+Offences against justice,New South Wales,79.1,,,
+Offences against justice,Victoria,92.9,,,
+Offences against justice,Queensland,264.9,,,
+Offences against justice,South Australia,81.7,,,
+Offences against justice,West Australia,170.2,,,
+Offences against justice,Tasmania,129.4,,,
+Offences against justice,North Territory,342.5,,,
+Offences against justice,Australian Capital Territory,71.7,,,
+Miscellaneous offences,New South Wales,73.9,,,
+Miscellaneous offences,Victoria,68.4,,,
+Miscellaneous offences,Queensland,4.3,,,
+Miscellaneous offences,South Australia,41.6,,,
+Miscellaneous offences,West Australia,14.7,,,
+Miscellaneous offences,Tasmania,100.9,,,
+Miscellaneous offences,North Territory,22.2,,,
+Miscellaneous offences,Australian Capital Territory,5.7,,,
+Total,New South Wales,"1,626.70",,,
+Total,Victoria,"1,111.00",,,
+Total,Queensland,"1,745.00",,,
+Total,South Australia,"1,575.40",,,
+Total,West Australia,"1,479.10",,,
+Total,Tasmania,"1,444.40",,,
+Total,North Territory,"4,109.30",,,
+Total,Australian Capital Territory,635.8,,,
