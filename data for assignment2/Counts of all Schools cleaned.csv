@@ -1,0 +1,41 @@
+﻿Type,State,Enrollment,Latitude,Longitude
+Primary,New South Wales,2089,-32.0000,147.0000
+Primary,Victoria,1571,-36.8000,144.0000
+Primary,Queensland,1145,-22.0000,143.0000
+Primary,South Australia,434,-30.0000,135.0000
+Primary,West Australia,686,-25.0000,122.0000
+Primary,Tasmania,153,-42.0000,146.0000
+Primary,North Territory,74,-20.0000,133.0000
+Primary,Australian Capital Territory,85,-35.3000,149.1000
+Secondary,New South Wales,511,-32.0000,147.0000
+Secondary,Victoria,345,-36.8000,144.0000
+Secondary,Queensland,279,-22.0000,143.0000
+Secondary,South Australia,85,-30.0000,135.0000
+Secondary,West Australia,143,-25.0000,122.0000
+Secondary,Tasmania,41,-42.0000,146.0000
+Secondary,North Territory,24,-20.0000,133.0000
+Secondary,Australian Capital Territory,25,-35.3000,149.1000
+Combined,New South Wales,343,-32.0000,147.0000
+Combined,Victoria,251,-36.8000,144.0000
+Combined,Queensland,283,-22.0000,143.0000
+Combined,South Australia,165,-30.0000,135.0000
+Combined,West Australia,209,-25.0000,122.0000
+Combined,Tasmania,59,-42.0000,146.0000
+Combined,North Territory,90,-20.0000,133.0000
+Combined,Australian Capital Territory,22,-35.3000,149.1000
+Special Schools,New South Wales,182,-32.0000,147.0000
+Special Schools,Victoria,116,-36.8000,144.0000
+Special Schools,Queensland,90,-22.0000,143.0000
+Special Schools,South Australia,28,-30.0000,135.0000
+Special Schools,West Australia,82,-25.0000,122.0000
+Special Schools,Tasmania,8,-42.0000,146.0000
+Special Schools,North Territory,6,-20.0000,133.0000
+Special Schools,Australian Capital Territory,5,-35.3000,149.1000
+Total,New South Wales,3125,-32.0000,147.0000
+Total,Victoria,2283,-36.8000,144.0000
+Total,Queensland,1797,-22.0000,143.0000
+Total,South Australia,712,-30.0000,135.0000
+Total,West Australia,1120,-25.0000,122.0000
+Total,Tasmania,261,-42.0000,146.0000
+Total,North Territory,194,-20.0000,133.0000
+Total,Australian Capital Territory,137,-35.3000,149.1000
